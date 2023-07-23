@@ -1,6 +1,7 @@
 """
 ASGI config for Employee_Manage project.
 
+# New
 It exposes the ASGI callable as a module-level variable named ``application``.
 
 For more information on this file, see
